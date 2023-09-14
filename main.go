@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/huantt/merge-templates/handler"
+	"github.com/ePlus-DEV/merge-templates/handler"
 	"log/slog"
 	"os"
 )

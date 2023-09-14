@@ -1,4 +1,4 @@
-module github.com/huantt/merge-templates
+module github.com/ePlus-DEV/merge-templates
 
 go 1.21
 

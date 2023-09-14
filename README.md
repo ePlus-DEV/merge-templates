@@ -3,7 +3,7 @@ This command is used to merge Go template files into one.
 
 ## Install
 ```shell
-go install github.com/huantt/merge-templates@latest
+go install github.com/ePlus-DEV/merge-templates@latest
 ```
 
 ## Usage
